@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+description-meta: "Academic website and teaching portfolio for Yiqing Skylar Yu"
+author-meta: "Yiqing Skylar Yu"
+
+website:
+  title: "Yiqing Skylar Yu"
+  description: "Academic website and teaching portfolio for Yiqing Skylar Yu"
+  navbar:
+    background: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Mentoring"
+        href: mentoring.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao"
+        target: _blank
+      - text: "Email"
+        href: "mailto:Skylar.Yu@colostate.edu"
+  page-navigation: true
+  page-footer:
+    left: "Yiqing Skylar Yu"
+    right:
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao"
+        target: _blank
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - styles.css
+      - pub-listing.css
+    toc: false
+    title-block-banner: false
+    footnotes-hover: true
+    code-copy: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+
+execute:
+  freeze: auto

@@ -1,0 +1,33 @@
+.pub-listing {
+  margin-top: 0.75rem;
+}
+
+.pub-item {
+  padding: 0.9rem 0 1rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.pub-citation {
+  margin-bottom: 0.25rem;
+  line-height: 1.55;
+}
+
+.pub-authors,
+.pub-year {
+  color: #444;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-note {
+  margin-bottom: 0;
+  color: #666;
+  font-size: 0.92rem;
+}
+
+.pub-link {
+  white-space: nowrap;
+}
+

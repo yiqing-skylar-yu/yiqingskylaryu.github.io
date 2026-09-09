@@ -1,0 +1,86 @@
+---
+title: "Mentoring"
+description: "Research mentoring philosophy and evidence for Yiqing Skylar Yu."
+toc: false
+---
+
+## Mentoring Philosophy
+
+Research assistants should leave with more than completed hours. Their time in the lab should produce skills, confidence, career clarity, and increasing independence.
+
+I treat research mentoring as career development rather than assuming every undergraduate wants the same research career. Some students need research-intensive preparation for graduate school; others are exploring psychology, building professional skills, or learning what research work actually looks like.
+
+## Developmental Model
+
+::: {.mentoring-sequence}
+<span>01 Individualize</span>
+<span>02 Build structure</span>
+<span>03 Transfer autonomy</span>
+<span>04 Create leadership opportunities</span>
+:::
+
+### Individualize
+
+At the beginning of a mentoring relationship, I learn why a student joined the lab, what they hope to build, how long they expect to stay, and whether they are interested in graduate school, research, clinical work, or another path.
+
+### Build Structure
+
+New research assistants begin with detailed protocols, expectations for reliability and communication, mock sessions, documentation practices, research-ethics guidance, and close feedback.
+
+### Transfer Autonomy
+
+As students gain skill, the question shifts from whether they can follow a procedure to whether they understand why it matters. Students increasingly troubleshoot, interpret articles, connect procedures to design logic, and contribute to project development.
+
+### Create Leadership Opportunities
+
+Experienced students may take on peer training, recruitment coordination, data-quality roles, science communication, project management, conference dissemination, manuscript involvement, or project-specific leadership.
+
+This model helps a large research team remain educational rather than purely logistical.
+
+## Weekly Lab Meeting As Research Seminar
+
+Weekly lab meetings are a major educational component of the research experience. They often include protocol and deviation review, assigned article discussion, student-generated questions, mini-lessons, applied methods exercises, project updates, and scientific communication practice.
+
+These meetings expose students to the research lifecycle: how an idea becomes a protocol, a dataset, an analysis, a presentation, and eventually a manuscript.
+
+## Research Lifecycle Exposure
+
+Depending on timing and interest, students may participate in idea development, literature searching, protocol writing, IRB preparation, recruitment, data collection, participant communication, data organization, analysis, poster preparation, conference presentation, manuscript writing, and publication.
+
+Students who cannot participate in every stage still learn about those stages through lab meetings and project updates.
+
+## Career Development
+
+Research-oriented students can move toward deeper literature engagement, study design, analysis, abstracts, posters, conference presentations, manuscript involvement, graduate-school preparation, and ownership of project components. Students pursuing other paths build transferable skills in teamwork, responsibility, participant interaction, troubleshooting, documentation, communication, and career clarity.
+
+## Evidence Of Mentoring Effectiveness
+
+Skylar has mentored research assistants continuously from Spring 2022 through Fall 2026, including large teams and many returning students. Mentoring evaluations span Spring 2022 through Spring 2026, with 61 completed evaluations across multiple cohorts.
+
+::: {.metric-row}
+::: {.metric}
+<span class="metric-value">4.79/5</span>
+<span class="metric-label">Overall research experience</span>
+:::
+
+::: {.metric}
+<span class="metric-value">4.91/5</span>
+<span class="metric-label">Overall mentor rating</span>
+:::
+
+::: {.metric}
+<span class="metric-value">61</span>
+<span class="metric-label">Completed evaluations across cohorts</span>
+:::
+:::
+
+Recurring qualitative themes describe my mentoring as knowledgeable, enthusiastic, organized, supportive, patient, flexible, accessible, and invested in student growth. Students report learning about study design, protocol administration, participant interaction, literature searching, data collection, research ethics, troubleshooting, and research communication.
+
+## Mentoring Other Mentors
+
+Mentoring has also become part of my professional development and leadership. I have presented on graduate student mentoring, undergraduate research assistant development, lab promotion systems, and scalable mentor training through venues including CSU, SPSP, RMPA, SBM, and graduate-education contexts.
+
+## Development Priorities
+
+Student feedback has encouraged even more exposure to later research stages, especially data analysis, interpretation, statistics, and manuscript writing. My next mentoring improvements include more analysis mini-lessons, data-to-figure activities, manuscript-development pathways for advanced students, and clearer early explanations of how data collection connects to the eventual scientific product.
+

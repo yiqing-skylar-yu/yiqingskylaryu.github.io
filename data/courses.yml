@@ -1,0 +1,26 @@
+# Simple source file for courses and teaching areas.
+
+- course: "PSY 250 Research Design & Analysis I"
+  role: "Instructor of record"
+  terms: "Summer 2026"
+  format: "Online asynchronous"
+  public_description: "Research design, scientific writing, critical thinking, and transferable skills."
+
+- course: "PSY 317 Social Psychology Lab"
+  role: "Instructor of record"
+  terms: "Fall 2024; Summer 2024; Summer 2025; Summer 2026"
+  format: "In person and online asynchronous"
+  public_description: "Upper-level seminar/lab course on replication, open science, research design, and scientific reasoning."
+
+- course: "Research Methods / Research Design"
+  role: "Ready to teach"
+  terms: ""
+  format: "Undergraduate"
+  public_description: "Research methods, experimental psychology, behavioral research, or undergraduate research seminar."
+
+- course: "Health Psychology"
+  role: "Ready to develop or teach"
+  terms: ""
+  format: "Undergraduate lecture or upper-level seminar"
+  public_description: "Health behavior, stress and health, physical activity, sedentary behavior, and behavioral medicine."
+

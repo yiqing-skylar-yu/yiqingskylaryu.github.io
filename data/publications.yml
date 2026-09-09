@@ -1,0 +1,111 @@
+# Edit this file when a publication changes status or when you add a new entry.
+# The Publications page is generated from this file.
+
+- section: "Peer-reviewed publications"
+  year: 2026
+  authors: "Yu, Y. S., Leib, A., Bellows, L. L., Berry, C., Graham, D. J., Krobath, D. M., & Mueller, M. P."
+  title: "Health literacy as a moderator of menu labeling effects on fast-food ordering: An online randomized controlled trial"
+  journal: "Annals of Behavioral Medicine"
+  volume_issue_pages: "60(1), kaag049"
+  doi_or_url: "https://doi.org/10.1093/abm/kaag049"
+  note: "First author; corresponding author"
+
+- section: "Peer-reviewed publications"
+  year: 2026
+  authors: "Abrams, K. B., Okindo, L., Bacon, M. E., Yu, Y. S., Germana, S. S., Malhotra, M., & Cullen, N. A."
+  title: "The use of virtual reality of PTSD research and practice"
+  journal: "IUSVEducation"
+  volume_issue_pages: "29(Supplemento), 17-36"
+  doi_or_url: "https://iusveducation.it/the-use-of-virtual-reality-in-ptsd-research-and-practice"
+  note: "Collaborative publication"
+
+- section: "Peer-reviewed publications"
+  year: 2025
+  authors: "Yu, Y. S., Altares, A., Leib, A., Bellows, L. L., Berry, C., Graham, D. J., & Mueller, M. P."
+  title: "Sociodemographic disparities in health literacy among American adults"
+  journal: "Preventive Medicine Reports"
+  volume_issue_pages: "57, 103179"
+  doi_or_url: "https://doi.org/10.1016/j.pmedr.2025.103179"
+  note: "First author; corresponding author"
+
+- section: "Peer-reviewed publications"
+  year: 2025
+  authors: "Spitzer, A., Ramey, M., Yu, Y. S., Oselinsky, K., McMahon, K., Kelley, B., Rojas-Rueda, D., Dean, D., LoTemplio, S., Ortega, F., & Graham, D. J."
+  title: "Walking in an urban environment and a virtual reality replica: Comparisons and researcher recommendations"
+  journal: "Transportation Research Record"
+  volume_issue_pages: ""
+  doi_or_url: "https://doi.org/10.1177/03611981251365899"
+  note: "Collaborative publication"
+
+- section: "Peer-reviewed publications"
+  year: 2023
+  authors: "Oselinsky, K., Spitzer, A., Yu, Y. S., Ortega, F., Malinin, L., Curl, K., Leach, H., & Graham, D. J."
+  title: "Virtual reality assessment of walking in a modifiable urban environment: A feasibility and acceptability study"
+  journal: "Scientific Reports"
+  volume_issue_pages: "13(1), 5867"
+  doi_or_url: "https://doi.org/10.1038/s41598-023-32139-w"
+  note: "Collaborative publication"
+
+- section: "Under review"
+  year: 2026
+  authors: "Yu, Y. S., Maskey, S., Johnson, T., & Graham, D. J."
+  title: "The impact of activity-permissive workstations on physical and psychological well-being"
+  journal: "Applied Ergonomics"
+  volume_issue_pages: ""
+  doi_or_url: ""
+  note: "First-author manuscript under review"
+
+- section: "Under review"
+  year: 2026
+  authors: "Yu, Y. S., & Graham, D. J."
+  title: "Effects of activity-permissive workstations on stress responses: A randomized controlled trial"
+  journal: "Journal of Occupational Health Psychology"
+  volume_issue_pages: ""
+  doi_or_url: ""
+  note: "First-author manuscript under review"
+
+- section: "Under review"
+  year: 2026
+  authors: "McMahon, K., McCoy, H., Yu, Y. S., & Tompkins, S."
+  title: "What do graduate students gain from mentoring? Development and initial validation of the Graduate Mentoring Benefits Scale (GMBS)"
+  journal: "Mentoring & Tutoring: Partnership in Learning"
+  volume_issue_pages: ""
+  doi_or_url: ""
+  note: "Collaborative manuscript under review"
+
+- section: "Under review"
+  year: 2026
+  authors: "Fletcher, K. A., Yu, Y. S., Graham, D., Sechi, G., Burnett, C. E., & Drose, C."
+  title: "Destructive workplace leadership is linked with reduced employee physical activity"
+  journal: "Current Psychology"
+  volume_issue_pages: ""
+  doi_or_url: ""
+  note: "Collaborative manuscript under review"
+
+- section: "In preparation"
+  year: 2026
+  authors: "Nie, C., Graham, H., Yu, Y. S., McMahon, K., & Graham, D."
+  title: "Feasibility and acceptability of completing office tasks on a treadmill desk: A qualitative study"
+  journal: "Preventive Medicine"
+  volume_issue_pages: ""
+  doi_or_url: ""
+  note: "In preparation; target journal listed in source CV"
+
+- section: "Public-facing writing"
+  year: 2025
+  authors: "Yu, Y. S."
+  title: "Stand up for your health: Breaking sedentary habits"
+  journal: "Society of Behavioral Medicine Healthy Living Article"
+  volume_issue_pages: ""
+  doi_or_url: ""
+  note: "Public-facing article"
+
+- section: "Public-facing writing"
+  year: 2025
+  authors: "Frazier, M. C., Yu, Y. S., & Holesovsky, C. D."
+  title: "An 8-step primer for students and post-docs to develop contextual and impactful mentorship of others"
+  journal: "Society of Behavioral Medicine Outlook Article"
+  volume_issue_pages: ""
+  doi_or_url: ""
+  note: "Public-facing article"
+

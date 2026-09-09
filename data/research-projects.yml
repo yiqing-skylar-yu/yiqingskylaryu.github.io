@@ -1,0 +1,32 @@
+# Simple source file for research project summaries.
+
+- title: "Activity-permissive workstations, performance, and user experience"
+  theme: "Movement integration and workplace/everyday health"
+  public_summary: "Randomized laboratory work comparing sitting, standing, and treadmill walking during desk-based cognitive tasks."
+  status: "First-author manuscript under review at Applied Ergonomics"
+
+- title: "Activity-permissive workstations and acute social-evaluative stress"
+  theme: "Movement integration; stress and psychophysiology"
+  public_summary: "Preregistered randomized experiment testing whether walking buffers or compounds acute stress responses."
+  status: "First-author manuscript under review at Journal of Occupational Health Psychology"
+
+- title: "Dissertation: timing of walking around acute stress"
+  theme: "Heterogeneity and intervention fit"
+  public_summary: "Study of whether walking before, during, or after an acute stressor changes subjective and physiological stress trajectories."
+  status: "Dissertation proposal passed August 28, 2026"
+
+- title: "Task-specific treadmill-desk feasibility"
+  theme: "Task compatibility and mixed methods"
+  public_summary: "Mixed-methods work examining which everyday office tasks are compatible with treadmill walking and why."
+  status: "Manuscript development"
+
+- title: "One-year longitudinal treadmill-desk field pilot"
+  theme: "Sustained behavior change"
+  public_summary: "Intensive longitudinal field pilot examining self-directed treadmill-desk use, stress, work context, and barriers over time."
+  status: "Data collection completed or substantially completed; analysis pending"
+
+- title: "Health literacy and menu labeling"
+  theme: "Intervention fit in a complementary health-behavior domain"
+  public_summary: "Published work showing that menu-label effects can differ by health literacy."
+  status: "Published first-author papers"
+

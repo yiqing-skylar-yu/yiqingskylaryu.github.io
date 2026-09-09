@@ -1,0 +1,11 @@
+---
+title: "CV"
+description-meta: "Current CV for Yiqing Skylar Yu."
+toc: false
+---
+
+For the most current version of my curriculum vitae, please use the living CV link below. This keeps the website connected to one current CV source rather than requiring a second static copy to be updated separately.
+
+[View Current CV](https://colostate-my.sharepoint.com/:w:/g/personal/skylaryu_colostate_edu/IQB6qx0FBU0ESq74it2KO9DqAXjJcywhMd1UCiGUHbS5bFw?e=LcKaMx){.btn .btn-primary}
+
+You can also find current publication information on [Google Scholar](https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao), or contact me by [email](mailto:Skylar.Yu@colostate.edu).

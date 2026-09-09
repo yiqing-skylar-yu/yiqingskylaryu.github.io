@@ -1,0 +1,117 @@
+---
+title: "Research"
+description: "Research program of Yiqing Skylar Yu."
+toc: false
+---
+
+## Making Healthy Behavior Fit Real Life
+
+My research examines how health-promoting behaviors can be designed around the constraints of everyday life, including timing, task demands, individual differences, and the cognitive or practical burden of making healthier choices.
+
+The long-term question is straightforward but scientifically demanding: **How can we make healthy behavior actually work in real life?** I approach this question as a theory-informed, mechanism-aware, application-driven behavioral scientist.
+
+::: {.theme-sequence}
+::: {.theme-item}
+<span class="sequence-number">01</span>
+
+### Movement In Everyday Life
+
+I study whether and how physical activity can be integrated into desk-based work and other everyday settings without unacceptable performance, comfort, or experience tradeoffs.
+:::
+
+::: {.theme-item}
+<span class="sequence-number">02</span>
+
+### Intervention Fit
+
+Average effects can conceal meaningful heterogeneity. My work asks when, for whom, and under what conditions an intervention functions as a resource, an added demand, or a neutral option.
+:::
+
+::: {.theme-item}
+<span class="sequence-number">03</span>
+
+### Sustaining Behavior Change
+
+Health behavior interventions need to support more than one-time choices. I am interested in low-burden intervention delivery, repeated behavior, sustained use, and downstream well-being.
+:::
+:::
+
+## Laboratory-To-Field Logic
+
+My program deliberately moves between controlled and applied settings.
+
+::: {.process-line}
+<span>Mechanism</span>
+<span>Feasibility</span>
+<span>Field effectiveness</span>
+<span>Sustained use</span>
+<span>Refined mechanism</span>
+:::
+
+This iterative approach lets practical constraints become part of the science rather than a problem discovered only after an intervention leaves the laboratory.
+
+## Representative Projects
+
+::: {.project-list}
+::: {.project-item}
+### Activity-Permissive Workstations, Performance, and User Experience
+<p class="meta-line">Movement integration · task compatibility · user experience</p>
+
+This randomized laboratory study compared sitting, standing, and treadmill walking during desk-based tasks. Findings suggest that treadmill walking can be compatible with some cognitive tasks, while fine-motor interaction may feel more difficult. The broader takeaway is that task-specific compatibility is more useful than asking whether treadmill desks are globally good or bad.
+
+**Status:** First-author manuscript under review at *Applied Ergonomics*.
+:::
+
+::: {.project-item}
+### Activity-Permissive Workstations and Acute Social-Evaluative Stress
+<p class="meta-line">Stress · psychophysiology · workstation conditions</p>
+
+This preregistered randomized experiment tested whether walking during an acute stressor buffered or compounded stress responses. The preregistered stress-buffering hypothesis was not supported, but walking was not associated with amplified subjective stress and was rated as enjoyable. The study highlights the importance of appropriate physiological baselines when movement itself changes cardiovascular indicators.
+
+**Status:** First-author manuscript under review at *Journal of Occupational Health Psychology*.
+:::
+
+::: {.project-item}
+### Dissertation: Timing of Walking Around Acute Stress
+<p class="meta-line">Timing · heterogeneity · mixed methods</p>
+
+My dissertation asks whether it matters if a brief walking bout occurs before, during, or after an acute stressor. Current quantitative results do not support a universal stress-regulation benefit of walking timing, while qualitative accounts suggest meaningful heterogeneity in how participants experience walking as preparation, coping, distraction, added demand, or recovery support.
+
+**Status:** Dissertation proposal passed August 28, 2026; expected Ph.D. completion Summer 2027.
+:::
+
+::: {.project-item}
+### Task-Specific Treadmill-Desk Feasibility
+<p class="meta-line">Everyday office tasks · qualitative and mixed-methods work</p>
+
+This mixed-methods line examines which everyday office tasks are compatible with treadmill walking and why. Emerging themes include task demands, ergonomics, social visibility, user control, and pace.
+
+**Status:** Mixed-methods manuscript development with student mentee involvement.
+:::
+
+::: {.project-item}
+### Longitudinal Treadmill-Desk Field Pilot
+<p class="meta-line">Field pilot · daily diary · sustained use</p>
+
+This one-year field pilot follows sustained, self-directed treadmill-desk use among administrative staff. The study is best understood as an intensive longitudinal pilot/case study designed to inform future work on adherence, context, barriers, and person-specific use patterns.
+:::
+
+::: {.project-item}
+### Health Literacy and Menu Labeling
+<p class="meta-line">Health literacy · menu labeling · intervention heterogeneity</p>
+
+My published work on health literacy and menu labeling shows that health information interventions do not affect all consumers uniformly. This line is a complementary research domain and a conceptual bridge to the broader question of person-by-intervention fit.
+:::
+:::
+
+## Methodological Approach
+
+My work uses randomized experiments, mixed methods, intensive longitudinal and daily-diary field designs, psychophysiological measurement, qualitative interviews, online survey/RCT data, and applied statistical modeling. Across methods, I prioritize feasibility, acceptability, heterogeneity, and translation.
+
+## Research Trajectory
+
+As an independent faculty member, I plan to build a program on context-sensitive health behavior interventions that reduce the burden of healthy action by fitting movement or other health behaviors into people's existing tasks, routines, and constraints. Future projects may include task-movement compatibility frameworks, person-by-context moderators of intervention response, and larger field studies using repeated-measures or wearable-supported designs.
+
+[See Publications](publications.qmd){.btn .btn-primary}
+[Google Scholar](https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao){.btn .btn-secondary}
+

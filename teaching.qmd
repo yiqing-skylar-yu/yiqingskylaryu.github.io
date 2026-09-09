@@ -1,0 +1,157 @@
+---
+title: "Teaching"
+description: "Teaching portfolio for Yiqing Skylar Yu."
+toc: false
+---
+
+## Teaching Philosophy
+
+I teach students to think scientifically and become increasingly independent by making complex work manageable, active, applied, and connected to goals beyond a single course. Across courses and research mentoring, my goal is to help students become careful consumers and producers of evidence.
+
+I use scaffolding not to lower expectations, but to make high expectations attainable. Students practice component skills, receive feedback, and then apply that feedback in more independent work.
+
+## Courses Taught
+
+::: {.course-list}
+::: {.course-item}
+<p class="course-code">PSY 250</p>
+
+### Research Design & Analysis I
+<p class="meta-line">Instructor of record · Summer 2026 · Online asynchronous</p>
+
+I independently designed course materials, assignments, exams, lecture recordings, weekly learning activities, grading structures, and feedback systems, with support from two undergraduate teaching assistants.
+
+The course centers research design, scientific writing, critical thinking, and transferable skills such as project management, analytic reasoning, problem solving, and communication.
+:::
+
+::: {.course-item}
+<p class="course-code">PSY 317</p>
+
+### Social Psychology Lab
+<p class="meta-line">Instructor of record · Fall 2024; Summers 2024-2026</p>
+
+PSY 317 is an upper-level seminar/lab course emphasizing replication, open science, research design, and scientific reasoning. Students engage with preregistration, questionable research practices, registered reports, publication bias, scientific disagreement, research design, and transparent scientific writing.
+:::
+:::
+
+### Additional Teaching Experience
+
+My graduate teaching assistant experience includes PSY 250 Research Design and Analysis I, PSY 315 Social Psychology, and PSY 350 Research Design and Analysis II / Statistics. Guest teaching has included health psychology, attitudes and persuasion, independent and dependent variables, moderation and mediation, and article-based study design.
+
+## How I Teach
+
+::: {.theme-sequence}
+::: {.theme-item}
+<span class="sequence-number">01</span>
+
+### Build Independence Through Scaffolding
+
+In PSY 250, the semester-long research proposal is broken into manageable stages: assignment orientation, article review, literature search, research idea, hypothesis and variables, outlines, peer review, full introduction, final proposal, and presentation.
+:::
+
+::: {.theme-item}
+<span class="sequence-number">02</span>
+
+### Think Scientifically
+
+Students compare popular or public-facing science claims with original research articles, asking whether causal language is appropriate, whether limitations were omitted, and whether conclusions go beyond the design.
+:::
+
+::: {.theme-item}
+<span class="sequence-number">03</span>
+
+### Learn Actively
+
+I use think-pair-share, small-group discussion, applied examples, reflection questions, discussion boards, group problem solving, student-generated examples, and research-design activities.
+:::
+
+::: {.theme-item}
+<span class="sequence-number">04</span>
+
+### Structure Collaboration
+
+Group work is designed around clear expectations, defined responsibilities, peer evaluation, and safeguards against free riding. In online summer courses, I continue to refine how collaboration can remain useful without adding unnecessary coordination burden.
+:::
+
+::: {.theme-item}
+<span class="sequence-number">05</span>
+
+### Connect Learning To Transferable Skills
+
+Students practice critical thinking, project management, teamwork, communication, public speaking, evidence evaluation, and scientific literacy. A student does not need to become a psychologist for these skills to matter.
+:::
+
+::: {.theme-item}
+<span class="sequence-number">06</span>
+
+### Practice Reflective Improvement
+
+I use student feedback to revise pacing, scaffolding, readings, online structure, assignment instructions, and accessibility of learning activities while preserving core learning goals.
+:::
+:::
+
+## Selected Teaching Materials
+
+Selected public-facing teaching artifacts will appear here as sanitized versions are added.
+
+::: {.materials-list}
+::: {.material-card}
+### PSY 250 Research Proposal Sequence
+
+<p class="meta-line">Research Design & Analysis I · Assignment sequence</p>
+
+A staged semester-long proposal that helps students move from literature search and hypothesis development toward an independent research proposal and presentation.
+:::
+
+::: {.material-card}
+### PSY 317 Replicability Project
+
+<p class="meta-line">Social Psychology Lab · Research design project</p>
+
+A group project in which students design a transparent, preregistered social psychology study and communicate hypotheses, measures, analytic plans, and implications.
+:::
+
+::: {.material-card}
+### Critical Evaluation Activity
+
+<p class="meta-line">Research Methods / Social Psychology · Active-learning activity</p>
+
+An activity comparing public-facing science communication with original empirical articles to practice evidence evaluation and responsible inference.
+:::
+:::
+
+## Evidence Of Teaching Effectiveness
+
+::: {.metric-row}
+::: {.metric}
+<span class="metric-value">28/32</span>
+<span class="metric-label">PSY 317 Fall 2024 evaluations submitted</span>
+:::
+
+::: {.metric}
+<span class="metric-value">16/20</span>
+<span class="metric-label">PSY 317 Summer 2026 evaluations submitted</span>
+:::
+
+::: {.metric}
+<span class="metric-value">4.83/5</span>
+<span class="metric-label">PSY 250 Summer 2026 mean across six evaluation items</span>
+:::
+:::
+
+Students consistently identify knowledge, organization, critical thinking, engagement, feedback, and accessibility as strengths. PSY 250 evaluations directly support the value of the scaffolded research proposal, and PSY 317 evaluations show strong engagement with research design, open science, and critical thinking despite the substantial requirements of the lab format.
+
+## Feedback-Driven Revision
+
+Teaching improvement is most meaningful when it preserves learning goals while reducing unnecessary barriers. In PSY 317, I have worked within a required lab structure to reduce unnecessary reading, improve pacing and scaffolding, and clarify why each component matters. In online courses, I continue to refine how group work, embedded reflection activities, and exam preparation can better support student learning.
+
+## Courses I Can Teach
+
+I am prepared to teach Research Methods / Research Design and Social Psychology immediately. My training and teaching experience also support undergraduate Statistics / Data Analysis when appropriately matched to course level, as well as Health Psychology and related behavioral medicine, health behavior, sedentary behavior, and workplace health seminars.
+
+## Teaching And Mentoring
+
+Research mentoring is another major site of my teaching. In the lab, the same principles of scaffolding, feedback, active engagement, and increasing independence shape how students move from structured participation toward leadership and ownership.
+
+[Read About Mentoring](mentoring.qmd){.btn .btn-primary}
+

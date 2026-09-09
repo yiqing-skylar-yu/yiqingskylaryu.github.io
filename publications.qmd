@@ -1,0 +1,57 @@
+---
+title: "Publications"
+description-meta: "Publications and scholarly writing by Yiqing Skylar Yu."
+title-block-banner: false
+listing:
+  - id: peer-reviewed
+    contents: data/publications.yml
+    type: custom
+    page-size: 100
+    template: pub-listing.ejs
+    include:
+      section: "Peer-reviewed publications"
+  - id: under-review
+    contents: data/publications.yml
+    type: custom
+    page-size: 100
+    template: pub-listing.ejs
+    include:
+      section: "Under review"
+  - id: in-preparation
+    contents: data/publications.yml
+    type: custom
+    page-size: 100
+    template: pub-listing.ejs
+    include:
+      section: "In preparation"
+  - id: public-writing
+    contents: data/publications.yml
+    type: custom
+    page-size: 100
+    template: pub-listing.ejs
+    include:
+      section: "Public-facing writing"
+---
+
+[Google Scholar](https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao)
+
+## Peer-Reviewed Publications
+
+::: {#peer-reviewed}
+:::
+
+## Under Review
+
+::: {#under-review}
+:::
+
+## In Preparation
+
+::: {#in-preparation}
+:::
+
+## Public-Facing Writing
+
+::: {#public-writing}
+:::
+

@@ -1,0 +1,29 @@
+# Add public teaching artifacts here.
+# Put local files in files/teaching-materials/ and use a path like:
+# file_or_url: "files/teaching-materials/psy250-public-syllabus.pdf"
+# Leave file_or_url blank until the artifact is ready to publish.
+
+- title: "PSY 250 Research Proposal Sequence"
+  course: "PSY 250 Research Design & Analysis I"
+  material_type: "Assignment sequence"
+  description: "Staged proposal assignments moving from literature search and hypotheses to a final research proposal and presentation."
+  file_or_url: ""
+  public_status: "Public version to add later"
+  thumbnail: ""
+
+- title: "PSY 317 Replicability Project"
+  course: "PSY 317 Social Psychology Lab"
+  material_type: "Research design project"
+  description: "Group project in which students design a transparent, preregistered social psychology study."
+  file_or_url: ""
+  public_status: "Public version to add later"
+  thumbnail: ""
+
+- title: "Critical Evaluation Activity"
+  course: "Research Methods / Social Psychology"
+  material_type: "Active-learning activity"
+  description: "Activity comparing public-facing science communication with original empirical articles."
+  file_or_url: ""
+  public_status: "Public version to add later"
+  thumbnail: ""
+

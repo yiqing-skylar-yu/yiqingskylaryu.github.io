@@ -1,0 +1,48 @@
+---
+title: "Yiqing Skylar Yu"
+description-meta: "Health-behavior scientist studying how health-promoting behaviors can fit the constraints of real life."
+image: "images/headshot.jpg"
+page-navigation: false
+toc: false
+page-layout: full
+about:
+  id: hero-heading
+  template: trestles
+  image: images/headshot.jpg
+  image-width: 70%
+  links:
+    - text: "Google Scholar"
+      href: "https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao"
+      target: _blank
+    - text: "CV"
+      href: cv.qmd
+    - icon: envelope
+      text: "Email"
+      href: "mailto:Skylar.Yu@colostate.edu"
+---
+
+:::{#hero-heading}
+
+Doctoral Candidate in Applied Social and Health Psychology  
+Colorado State University
+
+### Making healthy behavior fit real life.
+
+I am a health-behavior scientist studying how health-promoting behaviors can be integrated into everyday life in ways that are feasible, sustainable, and minimally disruptive to the other demands people face. My work focuses especially on physical activity, sedentary behavior, workplace and everyday settings, intervention fit, and sustained behavior change.
+
+Rather than asking whether an intervention works "on average" alone, I study when, for whom, and under what conditions interventions are usable, effective, and sustainable.
+
+:::
+
+## Research
+
+My research moves between controlled laboratory studies and real-world field contexts. Laboratory studies help isolate mechanisms and boundary conditions, while field and mixed-methods studies test whether health-promoting behaviors are actually usable in daily life.
+
+[Read more about my research](research.qmd)
+
+## Teaching & Mentoring
+
+My teaching and mentoring center scientific thinking, scaffolded independence, active learning, and transferable professional skills. Across classrooms and research teams, I help students move from structured participation toward independent reasoning and ownership.
+
+[View teaching portfolio](teaching.qmd) · [Read about mentoring](mentoring.qmd)
+
