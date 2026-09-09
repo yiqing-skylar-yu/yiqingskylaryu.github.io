@@ -11,7 +11,7 @@ Routine edits are meant to happen in readable `.qmd` pages or simple `.yml` data
 3. Go into this website folder:
 
 ```bash
-cd "skylar-academic-website"
+cd "yiqingskylaryu.github.io"
 ```
 
 4. Preview the site:
