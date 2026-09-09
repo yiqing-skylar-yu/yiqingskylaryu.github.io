@@ -38,10 +38,8 @@ website:
       - text: "Google Scholar"
         href: "https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao"
         target: _blank
-  search:
-    location: navbar
-    type: textbox
-  reader-mode: true
+  search: false
+  reader-mode: false
   open-graph: true
   twitter-card: true
 
@@ -59,7 +57,6 @@ format:
     fig-align: center
     link-external-icon: false
     link-external-newwindow: true
-    email-obfuscation: javascript
 
 execute:
-  freeze: auto
+  freeze: false

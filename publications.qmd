@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-description-meta: "Publications and scholarly writing by Yiqing Skylar Yu."
 title-block-banner: false
 listing:
   - id: peer-reviewed
@@ -54,4 +53,3 @@ listing:
 
 ::: {#public-writing}
 :::
-

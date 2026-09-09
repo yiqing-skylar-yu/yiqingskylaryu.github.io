@@ -23,26 +23,26 @@ about:
 
 :::{#hero-heading}
 
-Doctoral Candidate in Applied Social and Health Psychology  
+PhD Candidate in Applied Social and Health Psychology  
 Colorado State University
 
 ### Making healthy behavior fit real life.
 
-I am a health-behavior scientist studying how health-promoting behaviors can be integrated into everyday life in ways that are feasible, sustainable, and minimally disruptive to the other demands people face. My work focuses especially on physical activity, sedentary behavior, workplace and everyday settings, intervention fit, and sustained behavior change.
+My research examines how health-promoting behaviors can fit into everyday life without creating unrealistic demands on people's time, attention, or routines. I focus primarily on physical activity and sedentary behavior, using workplace and everyday settings to study when movement is feasible, how people respond differently to the same intervention, and what supports sustained behavior change.
 
-Rather than asking whether an intervention works "on average" alone, I study when, for whom, and under what conditions interventions are usable, effective, and sustainable.
+Across this work, I am especially interested in when, for whom, and under what conditions an intervention works. My research combines laboratory experiments with mixed-methods and field studies to understand both whether an intervention is effective and whether people can realistically use it.
 
 :::
 
 ## Research
 
-My research moves between controlled laboratory studies and real-world field contexts. Laboratory studies help isolate mechanisms and boundary conditions, while field and mixed-methods studies test whether health-promoting behaviors are actually usable in daily life.
+My research moves between controlled laboratory studies and real-world settings to examine how physical activity and other health behaviors can be integrated into daily life. Current work focuses on activity-permissive workstations, the timing of brief walking around acute stress, intervention heterogeneity, and longer-term movement use.
 
 [Read more about my research](research.qmd)
 
 ## Teaching & Mentoring
 
-My teaching and mentoring center scientific thinking, scaffolded independence, active learning, and transferable professional skills. Across classrooms and research teams, I help students move from structured participation toward independent reasoning and ownership.
+My teaching and mentoring share the same basic goal: helping students move from guided practice toward independent thinking and ownership. In the classroom, I use active learning and scaffolded research projects; in the lab, students can progress from protocol training to project leadership, conference presentations, and manuscript involvement.
 
-[View teaching portfolio](teaching.qmd) · [Read about mentoring](mentoring.qmd)
-
+[Teaching](teaching.qmd)  
+[Mentoring](mentoring.qmd)

@@ -59,7 +59,6 @@ This iterative approach lets practical constraints become part of the science ra
 
 This randomized laboratory study compared sitting, standing, and treadmill walking during desk-based tasks. Findings suggest that treadmill walking can be compatible with some cognitive tasks, while fine-motor interaction may feel more difficult. The broader takeaway is that task-specific compatibility is more useful than asking whether treadmill desks are globally good or bad.
 
-**Status:** First-author manuscript under review at *Applied Ergonomics*.
 :::
 
 ::: {.project-item}

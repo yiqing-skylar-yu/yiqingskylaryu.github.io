@@ -47,7 +47,7 @@ Edit only this file for publication data:
 
 - `data/publications.yml`
 
-Each publication entry has a section, year, authors, title, journal, volume or page details, DOI or URL, and note. Copy an existing entry, paste it in the right section, and edit the fields.
+Each publication entry has a section, year, authors, title, journal, volume or page details, and DOI or URL. Copy an existing entry, paste it in the right section, and edit the fields.
 
 Do not invent DOI links. Leave `doi_or_url` blank if there is no public link yet.
 
@@ -105,7 +105,6 @@ The safest first changes are near the top:
 :root {
   --skylar-ink: #243230;
   --skylar-muted: #66726f;
-  --skylar-line: #e4e8e6;
   --skylar-accent: #2f6f68;
   --skylar-accent-dark: #1d514c;
   --skylar-bg: #fbfbfa;
