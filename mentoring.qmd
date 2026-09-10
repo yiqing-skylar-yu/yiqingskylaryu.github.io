@@ -5,45 +5,49 @@ toc: false
 
 ## Mentoring Philosophy
 
-I want research assistants to leave the lab with more than completed hours. Their experience should help them build research skills, confidence, career clarity, and increasing independence. Because students enter the lab with different goals, I begin by learning what they hope to gain from the experience and then adjust their training accordingly.
+I want research assistants to leave the lab with more than completed hours. Their experience should build research skills, confidence, career clarity, and increasing independence. Because students join research teams for different reasons, I tailor opportunities to their goals rather than assuming that every student wants an academic career.
 
-A student considering a research-intensive graduate program may move toward literature review, analysis, conference presentations, and manuscript writing. A student pursuing another career may focus more on communication, teamwork, project management, participant interaction, and scientific literacy. The goal is not to push every student toward academia, but to make the research experience useful for where they want to go.
+Students interested in research-intensive careers may progress toward literature review, analysis, conference presentations, and manuscript writing, while others may emphasize communication, teamwork, project management, participant interaction, and scientific literacy.
 
-## A Developmental Approach
+## From Training to Independence
 
-### Individualize the Mentoring Experience
+I tailor students' research experiences to their goals, interests, and level of experience. Early conversations about why they joined the lab, what skills they want to develop, and what they hope to do next help us identify responsibilities and opportunities that fit their goals. From there, my mentoring follows a developmental progression: students begin with clear structure, gain autonomy as their skills grow, and can eventually take on leadership and ownership within the research team.
 
-I meet with students to discuss why they joined the lab, which skills they want to develop, their career interests and graduate-school plans, and how much time they expect to remain involved. Those conversations help us identify responsibilities and opportunities that fit their goals.
+### *Start with Structure*
 
-### Build Structure First
+New research assistants begin with detailed written protocols, mock sessions, research-ethics guidance, clear expectations for documentation and reliability, competency checks, and close feedback. This structure gives students a dependable foundation for learning while protecting the quality of the research.
 
-New research assistants begin with detailed written protocols, mock sessions, research-ethics guidance, expectations for documentation and reliability, competency checks, and close feedback. Clear structure gives students a dependable basis for learning and protects the quality of the research.
+**Example training resource:**  
+[SWaT Research Assistant Onboarding & Training Plan](files/teaching-materials/SWaT_URA_Onboarding_and_Training_Plan.pdf){target="_blank"}
 
-### Transfer Autonomy
+### *Build Independence*
 
-Development begins with following a protocol accurately, then moves toward understanding why each procedure exists. With experience, students learn to troubleshoot problems, connect procedures with study design and data quality, and make increasingly independent decisions within their roles.
+As students gain experience, the goal shifts from simply following procedures to understanding why those procedures matter. Students learn to troubleshoot problems, connect day-to-day research tasks with study design and data quality, and make increasingly independent decisions within their roles.
 
-### Create Opportunities for Leadership
+### *Create Leadership Opportunities*
 
-Advanced roles have included research-assistant coordinator, shift coordinator, recruitment coordinator, data-quality coordinator, science-communication coordinator, project manager, peer trainer, and project-specific team leader. Students in these roles may schedule or train peers, monitor data quality, coordinate recruitment, improve workflows, or manage a defined part of a study.
+Advanced students may take on roles in project coordination, recruitment, data quality, peer training, science communication, or project leadership. These roles give experienced students opportunities to mentor peers, improve workflows, monitor research quality, and take ownership of meaningful parts of a project.
 
 ## Weekly Lab Meetings as a Research Seminar
 
-Weekly lab meetings are a major educational part of the research experience. During active studies, we review protocol deviations and recurring data-quality issues, not simply to identify mistakes but to understand how they affect research rigor. Meetings also include discussion of an assigned article, student-generated questions, small-group and full-group discussion, methods mini-lessons, applied exercises, project updates, and conversations about conferences and manuscripts.
+Weekly lab meetings function as a research seminar rather than only an operations meeting. We discuss assigned papers, student-generated questions, study design, methods, data-quality issues, conference presentations, and manuscripts. I also use short methods lessons and applied exercises to expose students to research skills they may not encounter in their coursework.
 
-For example, a discussion of qualitative research may include a short interview excerpt that students practice coding together, while a paper using meta-analysis can become an opportunity to explain how effect sizes are synthesized across studies.
+For example, students might code a short interview excerpt while learning about qualitative methods or use a meta-analysis paper to discuss how researchers synthesize evidence across studies.
+
+**Sample lab-meeting materials**
+
+- [Activity-Permissive Workstations: Overview](<files/teaching-materials/Lab Meeting - Overview of APWs.pdf>){target="_blank"}
+- [Trier Social Stress Test (TSST)](<files/teaching-materials/Lab Meeting - TSST.pdf>){target="_blank"}
 
 ## Learning the Research Lifecycle
 
-Students enter projects at different stages, but I help them see how the pieces connect. Depending on timing and interest, they may contribute to idea development, literature review, protocol development, institutional review, recruitment, data collection, quality control, analysis, conference dissemination, or manuscript writing. Project updates and lab meetings help students understand stages they do not experience directly.
+Students may enter a project during recruitment or data collection, but I want them to understand how research develops from an idea into a study, dataset, conference presentation, and publication. Depending on their interests and time in the lab, students may contribute to literature review, protocol development, recruitment, data collection, quality control, analysis, dissemination, or writing.
 
-One example of this progression is Smriti Maskey, who began on my research team running study sessions and later became involved in literature review, study planning, project coordination, conference presentations, and manuscript writing. Our mentoring relationship continued after she left CSU, and she is now pursuing a PhD in Clinical Psychology at the University of Wisconsin–Milwaukee.
+Mentee trajectory: One of my undergraduate research mentees began on my team running study sessions and later contributed to literature review, study planning, project coordination, conference presentations, and manuscript writing. Our mentoring relationship continued after she left CSU and during her time at Brown University as a full-time research coordinator, and she is now pursuing a Ph.D. in Clinical Psychology.
 
 ## Evidence of Mentoring Effectiveness
 
-Across multiple cohorts from 2022 to 2026, research assistants consistently rated the mentoring experience highly, with an average overall mentor rating of 4.91/5.
-
-> “I learned about several steps in the research process that I wouldn’t have learned in class.”
+Across 61 mentoring evaluations collected from 2022–2026, students rated their overall research experience an average of 4.79/5; among those completing the mentor-specific item, my average overall mentor rating was 4.91/5.
 
 > “I have learned so much being in this lab. I felt like I was able to grow a lot personally and academically.”
 
@@ -51,8 +55,9 @@ Students also frequently describe gaining experience with study design, protocol
 
 ## Mentoring Other Mentors
 
-I have also shared and extended this work through an invited CSU talk, “Becoming Effective Graduate Student Mentors,” and an SPSP session on the transition from graduate student to mentor. At the Rocky Mountain Psychological Association, I presented work on undergraduate research-assistant development and a lab promotion system that creates structured paths toward leadership. I co-authored a Society of Behavioral Medicine *Outlook* article on contextual and impactful mentoring and contribute to mentor training and evaluation through CSU's Graduate School and Mentor Well work.
+My interest in mentoring extends beyond my own research team. I have given invited and conference presentations on graduate-student mentorship and undergraduate RA development, co-authored a Society of Behavioral Medicine article on effective mentorship, and contribute to mentor training and evaluation through CSU's Graduate School.
 
-## Continuing to Improve My Mentoring
+**Selected mentoring presentations**
 
-Research-assistant feedback has encouraged me to provide more exposure to data analysis, results interpretation, statistics, and manuscript writing. In response, I am developing more analysis mini-lessons, data-to-figure exercises, and manuscript pathways for advanced students, while explaining earlier in training how careful data collection contributes to the final scientific product.
+- [Not Just for Course Credits: Developing Undergraduate Research Assistants Through a Lab Promotion System](<files/teaching-materials/RMPA 2025 teaching poster PDF.pdf>){target="_blank"}
+- [Bridging the Mentorship Gap: Empowering Graduate Students to Guide Undergraduate Research Assistants](<files/teaching-materials/RMPA Teaching take-out talk slides.pdf>){target="_blank"}

@@ -1,5 +1,6 @@
 ---
 title: "Yiqing Skylar Yu"
+subtitle: "PhD Candidate<br>Applied Social and Health Psychology<br>Department of Psychology<br>Colorado State University"
 description-meta: "Health-behavior scientist studying how health-promoting behaviors can fit the constraints of real life."
 image: "images/headshot.jpg"
 page-navigation: false
@@ -11,38 +12,28 @@ about:
   image: images/headshot.jpg
   image-width: 70%
   links:
-    - text: "Google Scholar"
-      href: "https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao"
-      target: _blank
-    - text: "CV"
-      href: cv.qmd
-    - icon: envelope
-      text: "Email"
+    - text: "Skylar.Yu@colostate.edu"
       href: "mailto:Skylar.Yu@colostate.edu"
 ---
 
 :::{#hero-heading}
 
-PhD Candidate in Applied Social and Health Psychology  
-Colorado State University
-
 ### Making healthy behavior fit real life.
 
-My research examines how health-promoting behaviors can fit into everyday life without creating unrealistic demands on people's time, attention, or routines. I focus primarily on physical activity and sedentary behavior, using workplace and everyday settings to study when movement is feasible, how people respond differently to the same intervention, and what supports sustained behavior change.
-
-Across this work, I am especially interested in when, for whom, and under what conditions an intervention works. My research combines laboratory experiments with mixed-methods and field studies to understand both whether an intervention is effective and whether people can realistically use it.
+I am a health-behavior scientist studying how physical activity and other health-promoting behaviors can be integrated into everyday life. My research focuses on intervention fit: when, for whom, and under what conditions healthy behavior is feasible, effective, and sustainable.
 
 :::
 
 ## Research
 
-My research moves between controlled laboratory studies and real-world settings to examine how physical activity and other health behaviors can be integrated into daily life. Current work focuses on activity-permissive workstations, the timing of brief walking around acute stress, intervention heterogeneity, and longer-term movement use.
+I study how movement can be integrated into work and everyday life, with current projects examining active workstations, walking around stressful events, individual differences in intervention response, and sustained movement use.
 
 [Read more about my research](research.qmd)
 
 ## Teaching & Mentoring
 
-My teaching and mentoring share the same basic goal: helping students move from guided practice toward independent thinking and ownership. In the classroom, I use active learning and scaffolded research projects; in the lab, students can progress from protocol training to project leadership, conference presentations, and manuscript involvement.
+My teaching and mentoring focus on helping students become increasingly independent thinkers and researchers. I use active learning and scaffolded projects in the classroom, and I mentor research assistants from initial training through project leadership, conference presentations, and manuscript involvement.
 
-[Teaching](teaching.qmd)  
-[Mentoring](mentoring.qmd)
+[Read more about my teaching](teaching.qmd)  
+
+[Read more about my mentoring](mentoring.qmd)

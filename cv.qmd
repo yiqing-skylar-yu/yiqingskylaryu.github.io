@@ -1,12 +1,10 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 description-meta: "Current CV for Yiqing Skylar Yu."
 toc: false
 ---
 
-My current curriculum vitae is available here.
+My CV includes publications, current manuscripts, grants and awards, conference presentations, teaching, research mentoring, and professional service.
 
 [View Current CV](https://colostate-my.sharepoint.com/:w:/g/personal/skylaryu_colostate_edu/IQB6qx0FBU0ESq74it2KO9DqAXjJcywhMd1UCiGUHbS5bFw?e=LcKaMx)
 
-[Google Scholar](https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao)  
-[Email](mailto:Skylar.Yu@colostate.edu)

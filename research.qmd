@@ -1,52 +1,38 @@
 ---
 title: "Research"
-description: "Research program of Yiqing Skylar Yu."
 toc: false
 ---
 
 ## Making Healthy Behavior Fit Real Life
 
-My research examines how health-promoting behaviors can be designed around the constraints of everyday life, including timing, task demands, individual differences, and the cognitive or practical burden of making healthier choices.
+My research asks how health-promoting behaviors can fit into people's everyday lives rather than compete with them. I focus primarily on physical activity and sedentary behavior, studying how timing, task demands, individual differences, and everyday context shape whether an intervention is usable and effective.
 
-The long-term question is straightforward but scientifically demanding: **How can we make healthy behavior actually work in real life?** I approach this question as a theory-informed, mechanism-aware, application-driven behavioral scientist.
+Across this work, I return to one question: **When, for whom, and under what conditions does an intervention work?**
 
-::: {.theme-sequence}
-::: {.theme-item}
-<span class="sequence-number">01</span>
 
-### Movement In Everyday Life
 
-I study whether and how physical activity can be integrated into desk-based work and other everyday settings without unacceptable performance, comfort, or experience tradeoffs.
-:::
+### *Movement In Everyday Life*
 
-::: {.theme-item}
-<span class="sequence-number">02</span>
+I study how light physical activity can be integrated into desk-based work and other everyday settings without disrupting performance or making everyday tasks harder.
 
-### Intervention Fit
 
-Average effects can conceal meaningful heterogeneity. My work asks when, for whom, and under what conditions an intervention functions as a resource, an added demand, or a neutral option.
-:::
+### *Individual and Contextual Fit*
 
-::: {.theme-item}
-<span class="sequence-number">03</span>
+The same intervention can help one person, burden another, and make little difference for someone else. I study how individual characteristics, task demands, timing, and context shape those differences.
 
-### Sustaining Behavior Change
 
-Health behavior interventions need to support more than one-time choices. I am interested in low-burden intervention delivery, repeated behavior, sustained use, and downstream well-being.
-:::
-:::
+### *Sustaining Healthy Behavior*
 
-## Laboratory-To-Field Logic
+I am interested in what happens after an intervention initially works: whether people keep using it, what helps healthy behavior become part of a routine, and how sustained behavior affects health and well-being.
 
-My program deliberately moves between controlled and applied settings.
 
-::: {.process-line}
-<span>Mechanism</span>
-<span>Feasibility</span>
-<span>Field effectiveness</span>
-<span>Sustained use</span>
-<span>Refined mechanism</span>
-:::
+## From Laboratory to Everyday Life
+
+I use controlled laboratory studies to isolate mechanisms and test causal questions, then field and mixed-methods studies to understand whether the same ideas remain useful in everyday settings.
+
+The questions move in both directions. Practical barriers observed in the field inform new laboratory studies, while laboratory findings help identify what should be tested at larger scale.
+
+*Mechanism → Feasibility → Field effectiveness → Sustained use → Refined mechanism*
 
 This iterative approach lets practical constraints become part of the science rather than a problem discovered only after an intervention leaves the laboratory.
 
@@ -55,62 +41,52 @@ This iterative approach lets practical constraints become part of the science ra
 ::: {.project-list}
 ::: {.project-item}
 ### Activity-Permissive Workstations, Performance, and User Experience
-<p class="meta-line">Movement integration · task compatibility · user experience</p>
 
-This randomized laboratory study compared sitting, standing, and treadmill walking during desk-based tasks. Findings suggest that treadmill walking can be compatible with some cognitive tasks, while fine-motor interaction may feel more difficult. The broader takeaway is that task-specific compatibility is more useful than asking whether treadmill desks are globally good or bad.
+
+Can people walk while working without compromising the work itself? In a randomized study comparing sitting, standing, and treadmill walking, cognitive performance was similar across workstation conditions, although walking participants perceived typing and mouse use as more difficult. They also reported greater enjoyment and less boredom. The findings suggest that the usefulness of treadmill desks depends more on the task than on a simple “good versus bad” judgment.
+:::
+
+::: {.project-item}
+### Walking While Working Under Stress
+
+Does walking remain workable when work becomes stressful and cognitively demanding? In a preregistered experiment, walking during an acute social-evaluative stressor did not buffer stress responses, but it also did not amplify perceived stress or workload. Walking participants rated the workstation as more enjoyable than sitting and more comfortable than standing. This work also shows why physiological responses during active work need to be interpreted against a movement-specific baseline.
 
 :::
 
 ::: {.project-item}
-### Activity-Permissive Workstations and Acute Social-Evaluative Stress
-<p class="meta-line">Stress · psychophysiology · workstation conditions</p>
+### Dissertation: When Should We Walk Around Stress?
 
-This preregistered randomized experiment tested whether walking during an acute stressor buffered or compounded stress responses. The preregistered stress-buffering hypothesis was not supported, but walking was not associated with amplified subjective stress and was rated as enjoyable. The study highlights the importance of appropriate physiological baselines when movement itself changes cardiovascular indicators.
+My dissertation tests whether a brief walk works differently when it occurs before, during, or after an acute stressor. Preliminary quantitative findings do not suggest one universally optimal timing, while participants' qualitative accounts reveal substantial differences in whether walking feels like preparation, coping, distraction, added demand, or recovery. I am using those differences to study how intervention timing and individual experience shape intervention fit.
 
-**Status:** First-author manuscript under review at *Journal of Occupational Health Psychology*.
-:::
-
-::: {.project-item}
-### Dissertation: Timing of Walking Around Acute Stress
-<p class="meta-line">Timing · heterogeneity · mixed methods</p>
-
-My dissertation asks whether it matters if a brief walking bout occurs before, during, or after an acute stressor. Current quantitative results do not support a universal stress-regulation benefit of walking timing, while qualitative accounts suggest meaningful heterogeneity in how participants experience walking as preparation, coping, distraction, added demand, or recovery support.
-
-**Status:** Dissertation proposal passed August 28, 2026; expected Ph.D. completion Summer 2027.
 :::
 
 ::: {.project-item}
 ### Task-Specific Treadmill-Desk Feasibility
-<p class="meta-line">Everyday office tasks · qualitative and mixed-methods work</p>
 
-This mixed-methods line examines which everyday office tasks are compatible with treadmill walking and why. Emerging themes include task demands, ergonomics, social visibility, user control, and pace.
+Not every office task is equally compatible with walking. This mixed-methods project examines which everyday tasks people are willing and able to complete on a treadmill desk, and how task demands, ergonomics, pace, social context, and user control shape that experience.
 
-**Status:** Mixed-methods manuscript development with student mentee involvement.
 :::
 
 ::: {.project-item}
 ### Longitudinal Treadmill-Desk Field Pilot
-<p class="meta-line">Field pilot · daily diary · sustained use</p>
 
-This one-year field pilot follows sustained, self-directed treadmill-desk use among administrative staff. The study is best understood as an intensive longitudinal pilot/case study designed to inform future work on adherence, context, barriers, and person-specific use patterns.
+What determines whether someone continues using a treadmill desk once the novelty wears off? This year-long daily-diary pilot follows self-directed treadmill-desk use among administrative staff, examining use patterns, barriers, perceived benefits, and day-to-day context. The project is informing larger longitudinal studies of sustained movement at work.
 :::
 
 ::: {.project-item}
 ### Health Literacy and Menu Labeling
-<p class="meta-line">Health literacy · menu labeling · intervention heterogeneity</p>
 
-My published work on health literacy and menu labeling shows that health information interventions do not affect all consumers uniformly. This line is a complementary research domain and a conceptual bridge to the broader question of person-by-intervention fit.
+A complementary line of my research examines whether health information works equally well for different people. In a national sample of U.S. adults, I found substantial sociodemographic differences in functional health literacy. In a randomized menu-labeling study, nutrition labels were associated with healthier ordering primarily among adults with moderate health literacy rather than uniformly across literacy groups. Together, this work reinforces a broader theme of my research: population-level interventions can produce uneven effects depending on how well they fit the people expected to use them.
 :::
 :::
 
 ## Methodological Approach
 
-My work uses randomized experiments, mixed methods, intensive longitudinal and daily-diary field designs, psychophysiological measurement, qualitative interviews, online survey/RCT data, and applied statistical modeling. Across methods, I prioritize feasibility, acceptability, heterogeneity, and translation.
+I use experiments, mixed methods, psychophysiology, qualitative interviews, and intensive longitudinal field designs. I choose methods around the question, often combining controlled tests of causal mechanisms with measures of feasibility, individual differences, and real-world use.
 
-## Research Trajectory
+## Where This Work Is Going
 
-As an independent faculty member, I plan to build a program on context-sensitive health behavior interventions that reduce the burden of healthy action by fitting movement or other health behaviors into people's existing tasks, routines, and constraints. Future projects may include task-movement compatibility frameworks, person-by-context moderators of intervention response, and larger field studies using repeated-measures or wearable-supported designs.
+My next studies will extend this program from short-term feasibility toward sustained behavior change in everyday settings. I am particularly interested in comparing different ways of integrating movement into work, identifying person-by-context differences in response, and using repeated-measures and wearable-supported field studies to understand when healthy behavior becomes sustainable.
 
-[See Publications](publications.qmd){.btn .btn-primary}
-[Google Scholar](https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao){.btn .btn-secondary}
+More broadly, I want to develop health interventions that fit people's existing lives rather than requiring people to reorganize their lives around the intervention.
 

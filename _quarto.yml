@@ -29,8 +29,9 @@ website:
       - text: "Google Scholar"
         href: "https://scholar.google.com/citations?user=3VfeGpEAAAAJ&hl=en&oi=ao"
         target: _blank
-      - text: "Email"
-        href: "mailto:Skylar.Yu@colostate.edu"
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/yiqing-skylar-yu-m-s-abd-07b215188"
+        target: _blank
   page-navigation: true
   page-footer:
     left: "Yiqing Skylar Yu"
