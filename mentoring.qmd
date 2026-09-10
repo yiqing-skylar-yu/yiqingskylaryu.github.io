@@ -9,6 +9,14 @@ I want research assistants to leave the lab with more than completed hours. Thei
 
 Students interested in research-intensive careers may progress toward literature review, analysis, conference presentations, and manuscript writing, while others may emphasize communication, teamwork, project management, participant interaction, and scientific literacy.
 
+::: {.mentoring-photo}
+
+![](<images/Summer 2026 lab photo.jpg>){.mentoring-lab-photo alt="Skylar Yu with the Summer 2026 research assistant team in the laboratory"}
+
+<p class="photo-caption">Summer 2026 research assistant team</p>
+
+:::
+
 ## From Training to Independence
 
 I tailor students' research experiences to their goals, interests, and level of experience. Early conversations about why they joined the lab, what skills they want to develop, and what they hope to do next help us identify responsibilities and opportunities that fit their goals. From there, my mentoring follows a developmental progression: students begin with clear structure, gain autonomy as their skills grow, and can eventually take on leadership and ownership within the research team.
@@ -47,11 +55,20 @@ Mentee trajectory: One of my undergraduate research mentees began on my team run
 
 ## Evidence of Mentoring Effectiveness
 
-Across 61 mentoring evaluations collected from 2022–2026, students rated their overall research experience an average of 4.79/5; among those completing the mentor-specific item, my average overall mentor rating was 4.91/5.
+Across 67 mentoring evaluations collected from 2022–2026, students rated their overall research experience an average of 4.79/5; among those completing the mentor-specific item, my average overall mentor rating was 4.92/5.
 
-> “I have learned so much being in this lab. I felt like I was able to grow a lot personally and academically.”
+> “I have learned so much being in this lab. I felt like I was able to grow a lot personally and academically. The article presentations allowed me to practice my public speaking skills and answering questions on the spot used to be an uncomfortable task for me but now I feel more at ease doing so. Skylar has been very patient and helpful throughout my whole experience as an RA and I am so grateful for this experience. I have never taken a research class or anything beyond Psych 100 so I have taken away alot of information from the field of psychology in this lab and am very proud to be part of it.”
+
+>“Overall, I absolutely loved this experience. I’ve learned so much from Skylar and offers incredible support and feedback. Her genuine
+interest in the research is infectious and makes me want to pursue academia.”
+
+> “This research experience exceeded my expectations. I went into this just thinking it would be something nice to throw onto my resume while giving me the chance to study a topic I’d never really put much consideration into. Now, I feel like I’ve learned so much about research as a whole and the topic of active workstations, and I truly had a good time with running the experiments, interacting with fellow RAs, and working with and hearing new ideas from Skylar. It has genuinely been such a pleasure to be a part of
+this study!”
 
 Students also frequently describe gaining experience with study design, protocol administration, participant interaction, literature searching, data collection, research ethics, troubleshooting, and scientific communication.
+
+**Full research assistant evaluations**
+- [Full evaluations from 2022 to 2026](<files/teaching-materials/Skylar_Yu_Research_Assistant_Mentoring_Evaluations.pdf>){target="_blank"}
 
 ## Mentoring Other Mentors
 

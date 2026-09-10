@@ -3,6 +3,9 @@
 /.local-quarto/
 /.Rproj.user/
 .DS_Store
+.Rhistory
+**/__pycache__/
+*.py[cod]
 
 
 **/*.quarto_ipynb

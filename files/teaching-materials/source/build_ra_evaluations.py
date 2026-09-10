@@ -179,22 +179,12 @@ def add_title(story, styles):
 
 def add_overview(story, styles, summary):
     story.append(Paragraph("Evaluation overview", styles["h1"]))
-    overview = [["Evaluation period", "Career stage", "RAs mentored", "Evaluations", "Approx. coverage"]]
-    total_mentored = total_completed = 0
+    overview = [["Evaluation period", "Career stage", "RAs mentored that semester", "Evaluations", "Approx. coverage"]]
     for term, (stage, mentored, completed) in TERM_CONTEXT.items():
         overview.append([term, stage, mentored, completed, percent(completed / mentored)])
-        total_mentored += mentored
-        total_completed += completed
-    overview.append(["Total", "", total_mentored, total_completed, percent(total_completed / total_mentored)])
     story.append(academic_table(
-        overview, [78, 156, 72, 64, 78], styles,
+        overview, [78, 144, 90, 64, 78], styles,
         aligns=["LEFT", "LEFT", "CENTER", "CENTER", "CENTER"], compact=True,
-    ))
-    story.append(Spacer(1, 4))
-    story.append(Paragraph(
-        "Coverage is approximate because semester headcounts and survey eligibility may not correspond perfectly. "
-        "Spring 2022 reflects mentoring completed as a postbaccalaureate researcher; the PhD program began in Fall 2022.",
-        styles["record"],
     ))
 
     story.append(Paragraph("Comparable ratings across evaluation periods", styles["h2"]))

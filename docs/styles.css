@@ -41,64 +41,120 @@ h2 { margin-top: 3.2rem; font-size: 1.5rem; }
 h3 { margin-top: 2rem; font-size: 1.13rem; }
 p { margin-bottom: 1.05rem; }
 
-.quarto-about-trestles {
-  max-width: 980px;
-  margin: 0 auto 2.8rem;
-  padding: 1.8rem 1rem 0;
+.home .quarto-title-block { display: none; }
+.home main.content { max-width: 940px; }
+
+.home-hero {
+  max-width: 900px;
+  margin: 0 auto 3rem;
+  padding: 2rem 1rem 3rem;
+  border-bottom: 1px solid #d8dfdc;
+  text-align: center;
 }
 
-.quarto-about-trestles .about-entity { gap: 0; }
-.quarto-about-trestles .about-image {
-  border-radius: 3px;
-  margin-bottom: 0.8rem !important;
+.headshot {
+  display: block;
+  width: min(68vw, 265px);
+  aspect-ratio: 4 / 5;
+  margin: 0 auto;
+  object-fit: cover;
+  object-position: center 25%;
+  border: 1px solid #d8dfdc;
+  border-radius: 4px;
+  box-shadow: 0 18px 44px rgba(36, 50, 48, 0.12);
 }
 
-.quarto-about-trestles .about-link {
-  border: 0 !important;
-  border-radius: 0;
-  padding: 0.2rem 0;
+.home-hero h1 {
+  max-width: none;
+  margin: 1.25rem 0 0.4rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.15rem, 4vw, 3.1rem);
+  font-weight: 500;
+  line-height: 1.02;
+}
+
+.position-line {
+  max-width: none;
   margin: 0;
-  color: var(--skylar-accent);
-  font-size: 1.1rem;
-  font-weight: 400;
-  text-decoration: underline;
+  color: var(--skylar-muted);
+  font-size: 1rem;
+  line-height: 1.48;
+  text-align: center;
+}
+
+.home-email {
+  max-width: none;
+  margin: 0.55rem 0 0;
+  text-align: center;
+}
+
+.home-email a {
   text-underline-offset: 0.18em;
 }
 
-.quarto-about-trestles .about-links {
-  margin-top: 0;
-  margin-bottom: 0.65rem;
+.home-intro {
+  max-width: var(--skylar-prose);
+  margin: 2.5rem auto 0;
+  text-align: left;
 }
 
-.quarto-about-trestles .about-link:hover {
+.home-intro h3 {
+  max-width: none;
+  margin: 0 0 0.8rem;
   color: var(--skylar-accent-dark);
-  background: transparent;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.4rem, 3vw, 1.9rem);
+  font-weight: 500;
 }
 
-.quarto-about-trestles .about-entity h1.title {
-  white-space: nowrap;
-  font-size: clamp(1.75rem, 2.4vw, 2.05rem);
-  margin: 0 0 0.2rem;
+.mentoring-photo {
+  max-width: 480px;
+  margin: 1.8rem 0 2.6rem;
 }
 
-/* Keep the profile identity together in the left column: photo, name,
-   email, then academic role and affiliation. */
-.quarto-about-trestles .about-entity > header,
-.quarto-about-trestles .about-entity > header .quarto-title {
-  display: contents;
+.mentoring-lab-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #d8dfdc;
+  border-radius: 4px;
 }
 
-.quarto-about-trestles .about-entity > .about-image { order: 1; }
-.quarto-about-trestles .about-entity h1.title { order: 2; }
-.quarto-about-trestles .about-entity > .about-links { order: 3; }
+.photo-caption {
+  margin: 0.55rem 0 0;
+  color: var(--skylar-muted);
+  font-size: 0.88rem;
+  line-height: 1.4;
+}
 
-.quarto-about-trestles .about-entity .subtitle {
-  order: 4;
-  margin: 0;
-  color: var(--skylar-ink);
-  font-size: 1rem;
-  line-height: 1.45;
-  text-align: center;
+.project-with-photo {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 210px;
+  gap: 1.6rem;
+  align-items: start;
+}
+
+.project-with-photo .project-copy h3 {
+  margin-top: 0;
+}
+
+.project-photo {
+  margin-top: 1.2rem;
+}
+
+.project-photo img {
+  display: block;
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+  object-position: center;
+  border: 1px solid #d8dfdc;
+  border-radius: 4px;
+}
+
+.project-photo .photo-caption {
+  margin-top: 0.4rem;
+  font-size: 0.82rem;
 }
 
 .quarto-title-block .quarto-title-banner { background: transparent; }
@@ -122,6 +178,12 @@ blockquote p { margin: 0; }
 
 @media (max-width: 767px) {
   body { font-size: 16px; }
-  .quarto-about-trestles { padding-top: 1rem; }
-  .quarto-about-trestles .about-entity h1.title { white-space: normal; }
+  .home-hero { padding: 1rem 0 2.2rem; }
+  .home-intro { margin-top: 2rem; }
+  .mentoring-photo { margin-top: 1.8rem; }
+  .project-with-photo { display: block; }
+  .project-photo {
+    max-width: 320px;
+    margin: 1rem 0 0;
+  }
 }

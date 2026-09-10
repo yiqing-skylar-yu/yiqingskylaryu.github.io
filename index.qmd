@@ -1,26 +1,30 @@
 ---
 title: "Yiqing Skylar Yu"
-subtitle: "PhD Candidate<br>Applied Social and Health Psychology<br>Department of Psychology<br>Colorado State University"
 description-meta: "Health-behavior scientist studying how health-promoting behaviors can fit the constraints of real life."
 image: "images/headshot.jpg"
 page-navigation: false
 toc: false
 page-layout: full
-about:
-  id: hero-heading
-  template: trestles
-  image: images/headshot.jpg
-  image-width: 70%
-  links:
-    - text: "Skylar.Yu@colostate.edu"
-      href: "mailto:Skylar.Yu@colostate.edu"
+body-classes: home
 ---
 
-:::{#hero-heading}
+::: {.home-hero}
+
+![](images/headshot.jpg){.headshot alt="Portrait of Yiqing Skylar Yu"}
+
+# Yiqing Skylar Yu
+
+<p class="position-line">PhD Candidate<br>Applied Social and Health Psychology<br>Department of Psychology<br>Colorado State University</p>
+
+<p class="home-email"><a href="mailto:Skylar.Yu@colostate.edu">Skylar.Yu@colostate.edu</a></p>
+
+::: {.home-intro}
 
 ### Making healthy behavior fit real life.
 
 I am a health-behavior scientist studying how physical activity and other health-promoting behaviors can be integrated into everyday life. My research focuses on intervention fit: when, for whom, and under what conditions healthy behavior is feasible, effective, and sustainable.
+
+:::
 
 :::
 

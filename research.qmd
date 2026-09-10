@@ -46,17 +46,29 @@ This iterative approach lets practical constraints become part of the science ra
 Can people walk while working without compromising the work itself? In a randomized study comparing sitting, standing, and treadmill walking, cognitive performance was similar across workstation conditions, although walking participants perceived typing and mouse use as more difficult. They also reported greater enjoyment and less boredom. The findings suggest that the usefulness of treadmill desks depends more on the task than on a simple “good versus bad” judgment.
 :::
 
-::: {.project-item}
+::: {.project-item .project-with-photo}
+::: {.project-copy}
 ### Walking While Working Under Stress
 
 Does walking remain workable when work becomes stressful and cognitively demanding? In a preregistered experiment, walking during an acute social-evaluative stressor did not buffer stress responses, but it also did not amplify perceived stress or workload. Walking participants rated the workstation as more enjoyable than sitting and more comfortable than standing. This work also shows why physiological responses during active work need to be interpreted against a movement-specific baseline.
+:::
+
+::: {.project-photo}
+![](<images/lab set up 2.jpg>){alt="Participant walking at a treadmill workstation during the thesis laboratory study"}
+:::
 
 :::
 
-::: {.project-item}
+::: {.project-item .project-with-photo}
+::: {.project-copy}
 ### Dissertation: When Should We Walk Around Stress?
 
 My dissertation tests whether a brief walk works differently when it occurs before, during, or after an acute stressor. Preliminary quantitative findings do not suggest one universally optimal timing, while participants' qualitative accounts reveal substantial differences in whether walking feels like preparation, coping, distraction, added demand, or recovery. I am using those differences to study how intervention timing and individual experience shape intervention fit.
+:::
+
+::: {.project-photo}
+![](<images/lab set up 1.jpg>){alt="Treadmill workstation and study equipment used in the dissertation laboratory setup"}
+:::
 
 :::
 
@@ -89,4 +101,3 @@ I use experiments, mixed methods, psychophysiology, qualitative interviews, and 
 My next studies will extend this program from short-term feasibility toward sustained behavior change in everyday settings. I am particularly interested in comparing different ways of integrating movement into work, identifying person-by-context differences in response, and using repeated-measures and wearable-supported field studies to understand when healthy behavior becomes sustainable.
 
 More broadly, I want to develop health interventions that fit people's existing lives rather than requiring people to reorganize their lives around the intervention.
-
