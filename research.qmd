@@ -85,10 +85,17 @@ Not every office task is equally compatible with walking. This mixed-methods pro
 What determines whether someone continues using a treadmill desk once the novelty wears off? This year-long daily-diary pilot follows self-directed treadmill-desk use among administrative staff, examining use patterns, barriers, perceived benefits, and day-to-day context. The project is informing larger longitudinal studies of sustained movement at work.
 :::
 
-::: {.project-item}
+::: {.project-item .project-with-photo}
+::: {.project-copy}
 ### Health Literacy and Menu Labeling
 
 A complementary line of my research examines whether health information works equally well for different people. In a national sample of U.S. adults, I found substantial sociodemographic differences in functional health literacy. In a randomized menu-labeling study, nutrition labels were associated with healthier ordering primarily among adults with moderate health literacy rather than uniformly across literacy groups. Together, this work reinforces a broader theme of my research: population-level interventions can produce uneven effects depending on how well they fit the people expected to use them.
+:::
+
+::: {.project-photo .project-menu-image}
+![](<images/menu label example.png>){alt="Example restaurant menu showing calorie labels alongside menu items"}
+:::
+
 :::
 :::
 

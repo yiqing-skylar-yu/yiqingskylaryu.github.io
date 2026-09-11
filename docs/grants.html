@@ -9,7 +9,7 @@
 <meta name="author" content="Yiqing Skylar Yu">
 <meta name="description" content="Academic website and teaching portfolio for Yiqing Skylar Yu">
 
-<title>Publications – Yiqing Skylar Yu</title>
+<title>Grants &amp; Funding – Yiqing Skylar Yu</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -58,156 +56,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-peer-reviewed .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-section','listing-year','listing-authors','listing-title','listing-journal','listing-volume_issue_pages','listing-doi_or_url',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-section","listing-year","listing-authors","listing-title","listing-journal","listing-volume_issue_pages","listing-doi_or_url"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-peer-reviewed'] = new List('listing-peer-reviewed', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-under-review .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-section','listing-year','listing-authors','listing-title','listing-journal','listing-volume_issue_pages','listing-doi_or_url',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-section","listing-year","listing-authors","listing-title","listing-journal","listing-volume_issue_pages","listing-doi_or_url"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-under-review'] = new List('listing-under-review', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-in-preparation .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-section','listing-year','listing-authors','listing-title','listing-journal','listing-volume_issue_pages','listing-doi_or_url',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-section","listing-year","listing-authors","listing-title","listing-journal","listing-volume_issue_pages","listing-doi_or_url"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-in-preparation'] = new List('listing-in-preparation', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-public-writing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-section','listing-year','listing-authors','listing-title','listing-journal','listing-volume_issue_pages','listing-doi_or_url',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-section","listing-year","listing-authors","listing-title","listing-journal","listing-volume_issue_pages","listing-doi_or_url"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-public-writing'] = new List('listing-public-writing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="pub-listing.css">
-<meta property="og:title" content="Publications – Yiqing Skylar Yu">
+<meta property="og:title" content="Grants &amp; Funding – Yiqing Skylar Yu">
 <meta property="og:description" content="Academic website and teaching portfolio for Yiqing Skylar Yu">
 <meta property="og:site_name" content="Yiqing Skylar Yu">
-<meta name="twitter:title" content="Publications – Yiqing Skylar Yu">
+<meta name="twitter:title" content="Grants &amp; Funding – Yiqing Skylar Yu">
 <meta name="twitter:description" content="Academic website and teaching portfolio for Yiqing Skylar Yu">
 <meta name="twitter:card" content="summary">
 </head>
@@ -245,11 +101,11 @@ window.Quarto = {
 <span class="menu-text">Mentoring</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+    <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./grants.html"> 
+    <a class="nav-link active" href="./grants.html" aria-current="page"> 
 <span class="menu-text">Grants &amp; Funding</span></a>
   </li>  
   <li class="nav-item">
@@ -283,7 +139,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Publications</h1>
+<h1 class="title">Grants &amp; Funding</h1>
 </div>
 
 
@@ -300,99 +156,70 @@ window.Quarto = {
 </header>
 
 
-<p><a href="https://scholar.google.com/citations?user=3VfeGpEAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a></p>
-<section id="peer-reviewed-publications" class="level2">
-<h2 class="anchored" data-anchor-id="peer-reviewed-publications">Peer-Reviewed Publications</h2>
-<div id="listing-peer-reviewed" class="quarto-listing quarto-listing-container-custom">
-<div class="pub-listing list">
-<article class="pub-item" data-index="0">
-<p class="pub-citation">
-<span class="pub-authors"><strong>Yu, Y. S.</strong>, Leib, A., Bellows, L. L., Berry, C., Graham, D. J., Krobath, D. M., &amp; Mueller, M. P.</span> <span class="pub-year">(2026).</span> <span class="pub-title">Health literacy as a moderator of menu labeling effects on fast-food ordering: An online randomized controlled trial</span>. <em class="pub-journal">Annals of Behavioral Medicine</em>, 60(1), kaag049. <a class="pub-link" href="https://doi.org/10.1093/abm/kaag049" target="_blank" rel="noopener">Link</a>
-</p>
-</article>
-<article class="pub-item" data-index="1">
-<p class="pub-citation">
-<span class="pub-authors">Abrams, K. B., Okindo, L., Bacon, M. E., <strong>Yu, Y. S.</strong>, Germana, S. S., Malhotra, M., &amp; Cullen, N. A.</span> <span class="pub-year">(2026).</span> <span class="pub-title">The use of virtual reality of PTSD research and practice</span>. <em class="pub-journal">IUSVEducation</em>, 29(Supplemento), 17-36. <a class="pub-link" href="https://iusveducation.it/the-use-of-virtual-reality-in-ptsd-research-and-practice" target="_blank" rel="noopener">Link</a>
-</p>
-</article>
-<article class="pub-item" data-index="2">
-<p class="pub-citation">
-<span class="pub-authors"><strong>Yu, Y. S.</strong>, Altares, A., Leib, A., Bellows, L. L., Berry, C., Graham, D. J., &amp; Mueller, M. P.</span> <span class="pub-year">(2025).</span> <span class="pub-title">Sociodemographic disparities in health literacy among American adults</span>. <em class="pub-journal">Preventive Medicine Reports</em>, 57, 103179. <a class="pub-link" href="https://doi.org/10.1016/j.pmedr.2025.103179" target="_blank" rel="noopener">Link</a>
-</p>
-</article>
-<article class="pub-item" data-index="3">
-<p class="pub-citation">
-<span class="pub-authors">Spitzer, A., Ramey, M., <strong>Yu, Y. S.</strong>, Oselinsky, K., McMahon, K., Kelley, B., Rojas-Rueda, D., Dean, D., LoTemplio, S., Ortega, F., &amp; Graham, D. J.</span> <span class="pub-year">(2025).</span> <span class="pub-title">Walking in an urban environment and a virtual reality replica: Comparisons and researcher recommendations</span>. <em class="pub-journal">Transportation Research Record</em>. <a class="pub-link" href="https://doi.org/10.1177/03611981251365899" target="_blank" rel="noopener">Link</a>
-</p>
-</article>
-<article class="pub-item" data-index="4">
-<p class="pub-citation">
-<span class="pub-authors">Oselinsky, K., Spitzer, A., <strong>Yu, Y. S.</strong>, Ortega, F., Malinin, L., Curl, K., Leach, H., &amp; Graham, D. J.</span> <span class="pub-year">(2023).</span> <span class="pub-title">Virtual reality assessment of walking in a modifiable urban environment: A feasibility and acceptability study</span>. <em class="pub-journal">Scientific Reports</em>, 13(1), 5867. <a class="pub-link" href="https://doi.org/10.1038/s41598-023-32139-w" target="_blank" rel="noopener">Link</a>
-</p>
-</article>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<p>My research has been supported by the American Psychological Association and competitive funding from Colorado State University. These awards have supported my work on physical activity, sedentary behavior, stress, workplace health, dissertation research, research dissemination, and undergraduate research mentorship.</p>
+<section id="selected-research-funding" class="level2">
+<h2 class="anchored" data-anchor-id="selected-research-funding">Selected Research Funding</h2>
+<section id="apa-dissertation-award" class="level3">
+<h3 class="anchored" data-anchor-id="apa-dissertation-award">APA Dissertation Award</h3>
+<p><em>Treadmill Desk Use for Reducing Stress and Sedentary Behavior: A Mixed-Methods Study of Timing and Acceptability</em></p>
+<p>American Psychological Association<br>
+2026 | Principal Investigator | $5,000</p>
 </section>
-<section id="under-review" class="level2">
-<h2 class="anchored" data-anchor-id="under-review">Under Review</h2>
-<div id="listing-under-review" class="quarto-listing quarto-listing-container-custom">
-<div class="pub-listing list">
-<article class="pub-item" data-index="0">
-<p class="pub-citation">
-<span class="pub-authors"><strong>Yu, Y. S.</strong>, Maskey, S., Johnson, T., &amp; Graham, D. J.</span> <span class="pub-year">(2026).</span> <span class="pub-title">The impact of activity-permissive workstations on physical and psychological well-being</span>. <em class="pub-journal">Applied Ergonomics</em>.
-</p>
-</article>
-<article class="pub-item" data-index="1">
-<p class="pub-citation">
-<span class="pub-authors"><strong>Yu, Y. S.</strong>, &amp; Graham, D. J.</span> <span class="pub-year">(2026).</span> <span class="pub-title">Effects of activity-permissive workstations on stress responses: A randomized controlled trial</span>. <em class="pub-journal">Journal of Occupational Health Psychology</em>.
-</p>
-</article>
-<article class="pub-item" data-index="2">
-<p class="pub-citation">
-<span class="pub-authors">McMahon, K., McCoy, H., <strong>Yu, Y. S.</strong>, &amp; Tompkins, S.</span> <span class="pub-year">(2026).</span> <span class="pub-title">What do graduate students gain from mentoring? Development and initial validation of the Graduate Mentoring Benefits Scale (GMBS)</span>. <em class="pub-journal">Mentoring &amp; Tutoring: Partnership in Learning</em>.
-</p>
-</article>
-<article class="pub-item" data-index="3">
-<p class="pub-citation">
-<span class="pub-authors">Fletcher, K. A., <strong>Yu, Y. S.</strong>, Graham, D., Sechi, G., Burnett, C. E., &amp; Drose, C.</span> <span class="pub-year">(2026).</span> <span class="pub-title">Destructive workplace leadership is linked with reduced employee physical activity</span>. <em class="pub-journal">Current Psychology</em>.
-</p>
-</article>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="quarterly-strategic-investment-award" class="level3">
+<h3 class="anchored" data-anchor-id="quarterly-strategic-investment-award">Quarterly Strategic Investment Award</h3>
+<p><em>Accelerating Scalable Workplace Health Research: Integrating Movement and Stress Reduction in Sedentary Office Work</em></p>
+<p>Office of the Vice President for Research, Colorado State University<br>
+2026 | Lead Author | $9,890</p>
 </section>
-<section id="manuscripts-in-preparation" class="level2">
-<h2 class="anchored" data-anchor-id="manuscripts-in-preparation">Manuscripts in Preparation</h2>
-<div id="listing-in-preparation" class="quarto-listing quarto-listing-container-custom">
-<div class="pub-listing list">
-<article class="pub-item" data-index="0">
-<p class="pub-citation">
-<span class="pub-authors">Nie, C., Graham, H., <strong>Yu, Y. S.</strong>, McMahon, K., &amp; Graham, D.</span> <span class="pub-year">(2026).</span> <span class="pub-title">Feasibility and acceptability of completing office tasks on a treadmill desk: A qualitative study</span>. <em class="pub-journal">Preventive Medicine</em>.
-</p>
-</article>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="department-of-psychology-success-research-grant" class="level3">
+<h3 class="anchored" data-anchor-id="department-of-psychology-success-research-grant">Department of Psychology Success Research Grant</h3>
+<p><em>Conducting and Disseminating the Research on Activity-Permissive Workstations</em></p>
+<p>Department of Psychology, Colorado State University<br>
+2025 | Student Investigator | $4,000</p>
 </section>
-<section id="public-facing-writing" class="level2">
-<h2 class="anchored" data-anchor-id="public-facing-writing">Public-Facing Writing</h2>
-<div id="listing-public-writing" class="quarto-listing quarto-listing-container-custom">
-<div class="pub-listing list">
-<article class="pub-item" data-index="0">
-<p class="pub-citation">
-<span class="pub-authors"><strong>Yu, Y. S.</strong></span> <span class="pub-year">(2025).</span> <span class="pub-title">Stand up for your health: Breaking sedentary habits</span>. <em class="pub-journal">Society of Behavioral Medicine Healthy Living Article</em>. <a class="pub-link" href="https://www.sbm.org/healthy-living/stand-up-for-your-health-breaking-sedentary-habits?utm_source=informz&amp;utm_medium=email&amp;utm_campaign=mailing&amp;_zs=I8Tlo&amp;_zl=SseR3" target="_blank" rel="noopener">Link</a>
-</p>
-</article>
-<article class="pub-item" data-index="1">
-<p class="pub-citation">
-<span class="pub-authors">Frazier, M. C., <strong>Yu, Y. S.</strong>, &amp; Holesovsky, C. D.</span> <span class="pub-year">(2025).</span> <span class="pub-title">An 8-step primer for students and post-docs to develop contextual and impactful mentorship of others</span>. <em class="pub-journal">Society of Behavioral Medicine Outlook Article</em>. <a class="pub-link" href="https://www.sbm.org/publications/outlook/issues/summer-2025/an-8-step-primer-for-students-and-post-docs-to-develop-contextual-and-impactful-mentorship-of-others/full-article" target="_blank" rel="noopener">Link</a>
-</p>
-</article>
+<section id="distinguished-student-excellence-in-research-award" class="level3">
+<h3 class="anchored" data-anchor-id="distinguished-student-excellence-in-research-award">Distinguished Student Excellence in Research Award</h3>
+<p><em>Activity-Permissive Workstations and Acute Stress Responses</em></p>
+<p>Society of Behavioral Medicine<br>
+2024 | Principal Investigator | $1,000</p>
+</section>
+<section id="department-of-psychology-success-research-grants" class="level3">
+<h3 class="anchored" data-anchor-id="department-of-psychology-success-research-grants">Department of Psychology Success Research Grants</h3>
+<p><em>Conducting and Disseminating the Research on Activity-Permissive Workstations</em></p>
+<p>Department of Psychology, Colorado State University<br>
+2024 | Student Investigator | Two awards totaling $11,900</p>
+</section>
+<section id="center-for-meaning-and-purpose-research-grant" class="level3">
+<h3 class="anchored" data-anchor-id="center-for-meaning-and-purpose-research-grant">Center for Meaning and Purpose Research Grant</h3>
+<p><em>Can Walking on a Treadmill while Working Reduce Stress?</em></p>
+<p>Center for Meaning and Purpose, Colorado State University<br>
+2023 | Principal Investigator | $1,650</p>
+</section>
+<section id="department-of-psychology-success-grant" class="level3">
+<h3 class="anchored" data-anchor-id="department-of-psychology-success-grant">Department of Psychology Success Grant</h3>
+<p>Department of Psychology, Colorado State University<br>
+2023 | Student Investigator | $2,355</p>
+</section>
+</section>
+<section id="fellowships-research-support" class="level2">
+<h2 class="anchored" data-anchor-id="fellowships-research-support">Fellowships &amp; Research Support</h2>
+<div class="research-support">
+<section id="vice-president-for-research-graduate-fellowship" class="level3">
+<h3 class="anchored" data-anchor-id="vice-president-for-research-graduate-fellowship">Vice President for Research Graduate Fellowship</h3>
+<p>Colorado State University<br>
+2026–2027</p>
+</section>
+<section id="summer-scholar-mentoring-undergraduate-research-assistant-funding" class="level3">
+<h3 class="anchored" data-anchor-id="summer-scholar-mentoring-undergraduate-research-assistant-funding">Summer Scholar / Mentoring Undergraduate Research Assistant Funding</h3>
+<p>Department of Psychology, Colorado State University<br>
+2026 | $5,160</p>
+</section>
+<section id="department-summer-research-funding" class="level3">
+<h3 class="anchored" data-anchor-id="department-summer-research-funding">Department Summer Research Funding</h3>
+<p>Department of Psychology, Colorado State University<br>
+2025 | $3,000</p>
+</section>
 </div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-
 
 
 </section>

@@ -152,6 +152,13 @@ p { margin-bottom: 1.05rem; }
   border-radius: 4px;
 }
 
+.project-menu-image img {
+  height: 250px;
+  object-fit: contain;
+  object-position: center top;
+  background: #fff;
+}
+
 .project-photo .photo-caption {
   margin-top: 0.4rem;
   font-size: 0.82rem;
@@ -159,6 +166,16 @@ p { margin-bottom: 1.05rem; }
 
 .quarto-title-block .quarto-title-banner { background: transparent; }
 .description, .subtitle, .meta-line, .course-code { color: var(--skylar-muted); }
+
+.research-support h3 {
+  margin-top: 1.65rem;
+  font-size: 1.05rem;
+}
+
+.research-support p {
+  color: var(--skylar-muted);
+  font-size: 0.96em;
+}
 
 blockquote {
   margin: 1.5rem 0 1.8rem 1rem;

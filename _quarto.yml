@@ -23,6 +23,8 @@ website:
         href: mentoring.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Grants & Funding"
+        href: grants.qmd
       - text: "CV"
         href: cv.qmd
     right:
